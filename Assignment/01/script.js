@@ -1,5 +1,4 @@
 //Yasser Solution:
-
 let string = "yasser";
 // converting the string into an array
 firstLetter = string.split("")
@@ -8,7 +7,6 @@ outcome = firstLetter[0].toUpperCase() + string.slice(1, 6);
 console.log(outcome);
 
 //Course solutions:
-
  myString = 'developer';
 // Solution 1
  myNewString = myString.charAt(0).toUpperCase() + myString.substring(1);
